@@ -5,6 +5,12 @@ int main(void)
 {
 	int x, y, k, iHeight;
 
+	/*****************
+	    x = 폭
+	    y = 높이
+	    k = 시작점
+	*****************/
+
 	printf_s("입력 : ");
 	scanf_s("%d", &iHeight);
 
